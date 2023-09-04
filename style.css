@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+#content {
+    text-align: center;
+}
+
+#content img {
+    height: 70vh;
+    max-width: 500px;
+    margin-top: 10vh;
+}
+
+audio {
+    width: 70vw;
+}
